@@ -40,7 +40,7 @@ Input is validated and results are presented.
 Error handling:
 
 Catches errors such as invalid input or API connection problems.
-Unit Tests (test_main.py)
+Unit Tests (Class of unittest)
 
 -- test_valid_pairs:
 Verifies that the find_pairs function correctly finds valid pairs.
